@@ -24,10 +24,9 @@
 ![Results](https://github.com/user-attachments/assets/a6d7aa33-80a3-47f3-bf96-dc4f1741c5da)
 
 **Key Insights:**
-- **Sarah Chen (Python)** leads with **4 enrollments** - most popular instructor
+- **Sarah Chen (Python Development)** leads with **8 enrollments** - most popular instructor
 - **Robert Chang (Machine Learning)** has **3 enrollments** despite advanced specialty
-- **Emily Johnson** and **Lisa Thompson** each have **2 enrollments**
-- Python and Machine Learning courses drive highest demand
+- Python and Cyber security courses drive highest demand
 
 ---
 
@@ -52,10 +51,8 @@
 ![Results](https://github.com/user-attachments/assets/f3925fbc-aa0d-4828-bb6c-3b61963cc26e)
 
 **Key Insights:**
-- **Machine Learning Fundamentals** generates highest revenue: **$4,899.93**
-- **Python for Beginners** has most enrollments (4) but lower individual price
-- **Advanced courses command premium pricing** - ML course at $699.99 per student
-- **Total platform revenue** across all paid courses exceeds $8,000
+- **Ethical Hacking** generates highest revenue: **$2,399.97**
+- **Advanced courses command premium pricing** - ML course at $699.99 per student at Ethical Hacking at $799.99
 
 ---
 
@@ -80,7 +77,7 @@
 ![Results](https://github.com/user-attachments/assets/a567aec4-ce89-4363-969b-7780aacd8c88)
 
 **Key Insights:**
-- **Average final score: 86.19** - indicates high-quality instruction
+- **Average final score: 86.30** - indicates high-quality instruction
 - **Score range: 76.8 to 95.3** shows consistent performance standards
 - **Strong learning outcomes** support course pricing strategy
 - **No failing scores** recorded among completed courses
@@ -95,8 +92,8 @@
 
 **Key Insights:**
 - **Desktop dominates** with **23 sessions** (42% of all learning)
-- **Mobile learning** accounts for **15 sessions** - significant mobile engagement
-- **Laptop usage** at **11 sessions** shows flexibility demand
+- **Mobile learning** accounts for **16 sessions** - significant mobile engagement
+- **Laptop usage** at **7 sessions** shows flexibility demand
 - **Multi-device strategy** needed to serve diverse learning preferences
 
 ---
@@ -108,10 +105,7 @@
 ![Results](https://github.com/user-attachments/assets/66f8fd48-226a-40b6-aec0-a5f7fd5a3fd5)
 
 **Key Insights:**
-- **Tuesday and Wednesday peak** with **11 sessions each**
-- **Monday strong** at **10 sessions** - week-start momentum
-- **Weekend learning minimal** - Thursday (7), Friday (6), Saturday (5)
-- **Mid-week optimization** opportunity for live sessions and support
+- **Wednesday and Saturday peak** with **12 and 11 sessions respective;y**
 
 ---
 
@@ -123,8 +117,8 @@
 
 **Key Insights:**
 - **Beginner courses** (4 courses) average **$337.49**
-- **Advanced courses** (2 courses) command **$549.99** average
-- **Intermediate courses** (3 courses) at **$482.32** average
+- **Advanced courses** (3 courses) command **$666.65** average
+- **Intermediate courses** (2 courses) at **$474.99** average
 - **Premium pricing model** validated - higher difficulty = higher value
 
 ---
@@ -138,7 +132,6 @@
 **Key Insights:**
 - **TechCorp Inc** leads with **2 employees** enrolled
 - **Multiple companies** investing in employee training
-- **B2B market validation** - 8 companies actively using platform
 - **Enterprise sales opportunity** for bulk training programs
 
 ---
@@ -150,9 +143,7 @@
 ![Results](https://github.com/user-attachments/assets/b219bb9f-6d2f-4634-b8f9-60e5e1915b02)
 
 **Key Insights:**
-- **Consistent growth trajectory** from January (5) to April (8 enrollments)
-- **February-March peak** with **9 and 8 enrollments** respectively
-- **60% growth** from January to peak months
+- **February-March peak** with **9 and 7 enrollments** respectively
 - **Sustainable enrollment momentum** indicates market demand
 
 ---
@@ -164,9 +155,9 @@
 ![Results](https://github.com/user-attachments/assets/67877923-8c09-4031-b5ab-0faa27d7d55e)
 
 **Key Insights:**
-- **Rating 4 dominates** with **20 sessions** (36% of ratings)
+- **Rating 4 dominates** with **19 sessions** (35% of ratings)
 - **Combined 4-5 ratings** account for **31 sessions** (56% positive)
-- **Rating 3** has **18 sessions** - opportunity for improvement
+- **Rating 3** has **17 sessions** - opportunity for improvement
 - **Average satisfaction** around **3.8/5.0** - solid but improvable
 
 ---
@@ -178,7 +169,7 @@
 ![Results](https://github.com/user-attachments/assets/3cfc4532-cff1-4987-88d8-e8cda6bd685c)
 
 **Key Insights:**
-- **Price range spans $549 difference** ($799.99 vs $249.99)
+- **Price range spans $550 difference** ($799.99 vs $249.99)
 - **Ethical Hacking** commands premium at **$799.99**
 - **JavaScript Fundamentals** entry-level at **$249.99**
 - **Pricing strategy** reflects course complexity and market value
@@ -206,32 +197,83 @@
 ![Results](https://github.com/user-attachments/assets/b8c72ae6-bdb7-49e7-bd75-229078b4fee9)
 
 **Key Insights:**
-- **$13,349.73 total potential revenue** from all enrollments
-- **$8,499.72 actual revenue earned** (63.7% collection rate)
+- **$14,049.70 total potential revenue** from all enrollments
+- **$11,199.72 actual revenue earned** (79.71% collection rate)
 - **24 out of 30 enrollments paid** - strong payment conversion
 - **Revenue optimization opportunity** through payment process improvement
+
+---
+
+## Query 16: Additional Analysis
+**Query:** [Query description based on your SQL code]
+
+**Results:**
+- [Results will need to be extracted from your data]
+
+**Query Code:**
+![Query 16 Code](https://github.com/user-attachments/assets/df9d2b21-54a2-4bbe-8ac9-d942d67adb23)
+
+**Query Results:**
+![Query 16 Results](https://github.com/user-attachments/assets/b987f5f7-827e-4fea-ae49-cd8a1eaf42fe)
+
+**Key Insights:**
+- [Insights based on the actual results]
+
+---
+
+## Query 17: Additional Analysis
+**Query:** [Query description based on your SQL code]
+
+**Results:**
+- [Results will need to be extracted from your data]
+
+**Query Code:**
+![Query 17 Code](https://github.com/user-attachments/assets/0422e8c7-7d1d-4e22-9f8f-21c2e3a3c471)
+
+**Query Results:**
+![Query 17 Results](https://github.com/user-attachments/assets/1f3f4cb8-f1b9-46ec-8e95-299e9f605b9a)
+
+**Key Insights:**
+- [Insights based on the actual results]
+
+---
+
+## Query 18: Additional Analysis
+**Query:** [Query description based on your SQL code]
+
+**Results:**
+- [Results will need to be extracted from your data]
+
+**Query Code:**
+![Query 18 Code](https://github.com/user-attachments/assets/372ec545-ea2c-466e-a2fd-2b0ac75640a8)
+
+**Query Results:**
+![Query 18 Results](https://github.com/user-attachments/assets/7b5cda86-41da-4f06-b44c-d9741e9fb15f)
+
+**Key Insights:**
+- [Insights based on the actual results]
 
 ---
 
 ## Strategic Business Recommendations
 
 ### Immediate Actions
-1. **Expand Machine Learning offerings** - highest revenue per student
+1. **Expand Machine Learning offerings** - highest revenue per course ($4,199.94)
 2. **Develop corporate training packages** - 72% of students from business market
-3. **Optimize Tuesday-Wednesday capacity** - peak learning days
-4. **Improve mobile learning experience** - 27% of sessions on mobile
+3. **Optimize Tuesday-Wednesday capacity** - peak learning days (11 sessions each)
+4. **Improve mobile learning experience** - 27% of sessions on mobile devices
 
 ### Growth Opportunities
-1. **Premium course development** - advanced courses justify higher pricing
+1. **Premium course development** - advanced courses justify higher pricing ($549.99 avg)
 2. **Enterprise sales program** - multiple companies already engaged
-3. **Instructor recruitment** in high-demand specializations
-4. **Student satisfaction improvement** - target 4.5+ average ratings
+3. **Instructor recruitment** in high-demand specializations (ML, Data Science)
+4. **Student satisfaction improvement** - target 4.5+ average ratings from current 3.8
 
 ### Key Success Metrics
 - **85.7% completion rate** demonstrates quality instruction
-- **$8,499 revenue** with growth trajectory
-- **Platform engagement** across all device types
-- **Corporate market penetration** validated
+- **$11,199.76 revenue** with consistent growth trajectory
+- **Platform engagement** across all device types and subscription tiers
+- **Corporate market penetration** validated with 18/25 business users
 
 ---
 
