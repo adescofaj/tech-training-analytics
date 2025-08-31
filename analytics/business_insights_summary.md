@@ -7,7 +7,6 @@
 **Query:** Basic count of all platform entities
 ![Platform Overview](https://github.com/user-attachments/assets/98a2420a-34f1-43ff-bf74-183ab02a7564)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/81a614ed-27b1-4a1c-9008-d384f571e5b4)
 
 **Key Insights:**
@@ -22,7 +21,6 @@
 **Query:** Which instructors have the most student enrollments
 ![Instructor Popularity](https://github.com/user-attachments/assets/b4c64ce5-49ea-40e6-bf64-e75fa1585639)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/a6d7aa33-80a3-47f3-bf96-dc4f1741c5da)
 
 **Key Insights:**
@@ -37,7 +35,6 @@
 **Query:** Overall completion statistics across all enrollments
 ![Completion Rates](https://github.com/user-attachments/assets/ec6aa4b4-95b7-46d3-9f5f-0db3105cbc9e)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/d2791eca-d169-46c8-9152-07821490395a)
 
 **Key Insights:**
@@ -52,7 +49,6 @@
 **Query:** Revenue generation by individual courses
 ![Course Revenue](https://github.com/user-attachments/assets/9d531339-4b71-4337-99b2-7520876ac81f)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/f3925fbc-aa0d-4828-bb6c-3b61963cc26e)
 
 **Key Insights:**
@@ -67,7 +63,6 @@
 **Query:** Student count by subscription level
 ![Subscription Tiers](https://github.com/user-attachments/assets/26d6d17b-4b0a-4afe-9bb6-be9355fa8349)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/cccd8b73-e3de-4160-88ce-2754036cde2a)
 
 **Key Insights:**
@@ -82,7 +77,6 @@
 **Query:** Average final scores across completed courses
 ![Student Performance](https://github.com/user-attachments/assets/75f412c7-8a80-4fc9-99a5-bb1235b32a6c)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/a567aec4-ce89-4363-969b-7780aacd8c88)
 
 **Key Insights:**
@@ -97,7 +91,6 @@
 **Query:** Learning session distribution by device type
 ![Device Usage](https://github.com/user-attachments/assets/63c28e02-ee30-4f48-8db4-ce2b944a85d3)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/c7e8c704-bc18-40c8-9ebb-cca8b53adeac)
 
 **Key Insights:**
@@ -112,7 +105,6 @@
 **Query:** Learning session distribution by day of week
 ![Weekly Patterns](https://github.com/user-attachments/assets/33b596c8-23d0-4ed6-a6c1-ce533ee24690)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/66f8fd48-226a-40b6-aec0-a5f7fd5a3fd5)
 
 **Key Insights:**
@@ -127,7 +119,6 @@
 **Query:** Course distribution and pricing by difficulty level
 ![Course Difficulty](https://github.com/user-attachments/assets/33721291-8279-429c-ac60-0c97254aeb69)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/7d5afbe2-a7f4-414b-a71e-03ec43ed5f6f)
 
 **Key Insights:**
@@ -142,7 +133,6 @@
 **Query:** Companies with multiple employees enrolled
 ![Corporate Training](https://github.com/user-attachments/assets/3fd18684-be8e-44c0-a03a-8dc25019e54d)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/369eca2b-399f-4d0c-a703-226fa64e705f)
 
 **Key Insights:**
@@ -157,7 +147,6 @@
 **Query:** Monthly enrollment patterns over time
 ![Enrollment Trends](https://github.com/user-attachments/assets/68133270-dbf4-4a6f-8c67-75d8dae0938f)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/b219bb9f-6d2f-4634-b8f9-60e5e1915b02)
 
 **Key Insights:**
@@ -172,7 +161,6 @@
 **Query:** Session rating distribution (1-5 scale)
 ![Student Satisfaction](https://github.com/user-attachments/assets/5c3d68a3-8cf4-4597-a540-0e0ba98a6f70)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/67877923-8c09-4031-b5ab-0faa27d7d55e)
 
 **Key Insights:**
@@ -187,7 +175,6 @@
 **Query:** Most expensive vs cheapest course identification
 ![Price Comparison](https://github.com/user-attachments/assets/4e8036c3-642c-49f3-b963-e24d31c448fe)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/3cfc4532-cff1-4987-88d8-e8cda6bd685c)
 
 **Key Insights:**
@@ -202,7 +189,6 @@
 **Query:** Hourly rates by instructor and specialization
 ![Instructor Rates](https://github.com/user-attachments/assets/8787f13e-4501-49f8-a3a2-5188f17b4f53)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/6f1caa0d-a723-4261-91b0-72e42362b439)
 
 **Key Insights:**
@@ -217,7 +203,6 @@
 **Query:** Total revenue calculation and payment analysis
 ![Revenue Summary](https://github.com/user-attachments/assets/b9cf76f0-ba50-4cad-876b-061b2e1ac37a)
 
-**Results:**
 ![Results](https://github.com/user-attachments/assets/b8c72ae6-bdb7-49e7-bd75-229078b4fee9)
 
 **Key Insights:**
