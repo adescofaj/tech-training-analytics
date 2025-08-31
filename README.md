@@ -1,6 +1,6 @@
 # Tech Training Platform Database Analytics
 
-A complete data analyst portfolio project demonstrating end-to-end skills from messy data to business insights.
+A complete data analyst project demonstrating end-to-end skills from messy data to business insights.
 
 ## 📖 Project Overview
 
@@ -12,8 +12,6 @@ This project showcases a realistic data analytics workflow for a corporate tech 
 
 **Entity Relationship Diagram:**
 ![Database ERD](https://github.com/user-attachments/assets/fd779ad6-2fd0-44fd-be5f-c13bd8285794)
-![Database ERD](https://github.com/user-attachments/assets/b045b1fc-4649-45a4-9309-a2f911276246)
-![Database ERD](https://github.com/user-attachments/assets/2d7cfc4f-b5d5-4c68-8d1e-7951f0ab9471)
 
 **5 Core Tables:**
 - **Instructors** (7 records) - Teacher profiles and specializations
@@ -42,17 +40,17 @@ This project showcases a realistic data analytics workflow for a corporate tech 
 ## 📊 Key Business Insights
 
 ### Financial Performance
-- **Total Revenue:** $8,499.72
-- **Completion Rate:** 63.3%
-- **Average Student Score:** 86.2/100
+- **Total Revenue:** $11,199.76
+- **Completion Rate:** 85.7%
+- **Average Student Score:** 87.30
 
 ### Top Performers
-- **Highest Revenue Course:** Machine Learning Fundamentals ($4,899.93)
+- **Highest Revenue Course:** Ethical Hacking ($2,399.97)
 - **Most Popular Instructor:** Sarah Chen (Python Development)
-- **Most Valuable Tier:** Corporate subscriptions
+- **Most Valuable Tier:** Corporate subscriptions(11)
 
 ### Strategic Findings
-- Advanced courses generate 2.5x higher revenue per student
+- Advanced courses generate 2x higher revenue per student
 - Desktop learning sessions show highest completion rates
 - Corporate clients demonstrate strongest engagement patterns
 
@@ -60,16 +58,15 @@ This project showcases a realistic data analytics workflow for a corporate tech 
 
 ```
 tech-training-analytics/
-├── README.md                          # Main project overview
+├── README.md                             # Main project overview
 ├── database/
-│   ├── 01_schema_creation.sql         # Database and table creation
-│   ├── 02_data_quality_assessment.sql # Problem identification
-│   ├── 03_data_cleaning_procedures.sql# Systematic cleaning
-│   ├── 04_business_analytics.sql      # Strategic insights queries
-│   └── erd_diagram.png               # Visual database schema
-├── results/
-│   ├── data_quality_report.md        # Before/after cleaning metrics
-│   └── business_insights_summary.md  # Key analytical findings
+│   ├── 01_schema_creation.sql            # Database and table creation
+│   ├── 02_data_quality_assessment.sql    # Problem identification
+│   ├── 03_data_cleaning_procedures.sql   # Systematic cleaning
+│   └── erd_diagram.png                   # Visual database schema
+├── analytics/
+│   ├── 04_business_analytics.sql         # Strategic insights queries
+│   └── business_insights_summary.md      # Key analytical findings
 └── documentation/
     └── complete_project_documentation.md # Detailed methodology
 ```
@@ -93,7 +90,7 @@ tech-training-analytics/
 
 4. **Generate insights:**
    ```sql
-   source database/04_business_analytics.sql
+   source analytics/04_business_analytics_queries.sql
    ```
 
 ## 🎯 Data Quality Results
@@ -115,20 +112,6 @@ Common issues resolved:
 - Format variations (`90 mins` → `90 minutes`)
 - Invalid data markers (`null`, `N/A` → proper NULL values)
 - Incomplete entries (missing email domains, company names)
-
-## 💼 Business Value
-
-### For Training Companies
-- **Revenue Optimization:** Identify highest-ROI course offerings
-- **Resource Allocation:** Understand instructor performance patterns
-- **Student Success:** Track engagement and completion metrics
-- **Strategic Planning:** Data-driven course development decisions
-
-### For Data Teams
-- **Quality Standards:** Systematic approach to data cleaning
-- **Analytics Framework:** Business-focused query development
-- **Documentation:** Comprehensive project methodology
-- **Scalability:** Reusable procedures for ongoing data maintenance
 
 ## 🛠 Technologies Used
 
@@ -155,8 +138,5 @@ This project demonstrates:
 
 ---
 
-**Contact:** [Your contact information]  
-**Portfolio:** [Link to your portfolio]  
-**LinkedIn:** [Your LinkedIn profile]
-
-*This project showcases production-ready data analyst capabilities for corporate analytics teams.*
+**Contact:** adescofaj@gmail.com 
+**Portfolio:** https://github.com/adescofaj
