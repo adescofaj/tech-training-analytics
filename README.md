@@ -12,6 +12,7 @@ This project showcases a realistic data analytics workflow for a corporate tech 
 
 **Entity Relationship Diagram:**
 ![Database ERD](https://github.com/user-attachments/assets/fd779ad6-2fd0-44fd-be5f-c13bd8285794)
+![Database ERD](https://github.com/adescofaj/tech-training-analytics/issues/1#issuecomment-3240129638)
 
 **5 Core Tables:**
 - **Instructors** (7 records) - Teacher profiles and specializations
