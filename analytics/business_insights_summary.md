@@ -204,54 +204,48 @@
 
 ---
 
-## Query 16: Additional Analysis
-**Query:** [Query description based on your SQL code]
+## Query 16: Monthly Revenue Trends Analysis
+**Query:** Detailed monthly enrollment and revenue tracking
 
-**Results:**
-- [Results will need to be extracted from your data]
-
-**Query Code:**
 ![Query 16 Code](https://github.com/user-attachments/assets/df9d2b21-54a2-4bbe-8ac9-d942d67adb23)
 
-**Query Results:**
 ![Query 16 Results](https://github.com/user-attachments/assets/b987f5f7-827e-4fea-ae49-cd8a1eaf42fe)
 
 **Key Insights:**
-- [Insights based on the actual results]
+- February peak with $4,249.91 revenue and 100% completion rate
+- Strong payment conversion rates (83% overall across months)
+- May shows potential concern with 0% completion rate (too recent to complete)
+- Consistent monthly revenue between $2,600-$4,200 in mature months
 
 ---
 
-## Query 17: Additional Analysis
-**Query:** [Query description based on your SQL code]
+## Query 17: Learning Effectiveness by Device Type
+**Query:** Device performance analysis with completion rates and engagement metrics
 
-**Results:**
-- [Results will need to be extracted from your data]
-
-**Query Code:**
 ![Query 17 Code](https://github.com/user-attachments/assets/0422e8c7-7d1d-4e22-9f8f-21c2e3a3c471)
 
-**Query Results:**
 ![Query 17 Results](https://github.com/user-attachments/assets/1f3f4cb8-f1b9-46ec-8e95-299e9f605b9a)
 
 **Key Insights:**
-- [Insights based on the actual results]
+- Laptop users achieve 100% completion rate (highest performance)
+- Desktop users have longest average sessions (120.29 minutes)
+- Mobile learning shows strong completion rate (85.71%) despite shorter sessions
+- Tablet users show lowest completion rate (66.67%) - optimization needed
 
 ---
 
-## Query 18: Additional Analysis
-**Query:** [Query description based on your SQL code]
+## Query 18: Executive Dashboard Summary
+**Query:** Comprehensive platform performance overview
 
-**Results:**
-- [Results will need to be extracted from your data]
-
-**Query Code:**
 ![Query 18 Code](https://github.com/user-attachments/assets/372ec545-ea2c-466e-a2fd-2b0ac75640a8)
 
-**Query Results:**
 ![Query 18 Results](https://github.com/user-attachments/assets/7b5cda86-41da-4f06-b44c-d9741e9fb15f)
 
 **Key Insights:**
-- [Insights based on the actual results]
+- Platform maintains 85.71% completion rate across all courses
+- Average student score of 87.31 demonstrates quality instruction
+- Revenue of $11,199.76 represents strong financial performance
+- Instructor-to-student ratio of 1:3.6 enables personalized attention
 
 ---
 
@@ -274,7 +268,3 @@
 - **$11,199.76 revenue** with consistent growth trajectory
 - **Platform engagement** across all device types and subscription tiers
 - **Corporate market penetration** validated with 18/25 business users
-
----
-
-*Analysis based on comprehensive data cleaning and analytics of 126 total records across 5 database tables.*
