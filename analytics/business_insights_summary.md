@@ -211,12 +211,6 @@
 
 ![Query 16 Results](https://github.com/user-attachments/assets/b987f5f7-827e-4fea-ae49-cd8a1eaf42fe)
 
-**Key Insights:**
-- February peak with $4,249.91 revenue and 100% completion rate
-- Strong payment conversion rates (83% overall across months)
-- May shows potential concern with 0% completion rate (too recent to complete)
-- Consistent monthly revenue between $2,600-$4,200 in mature months
-
 ---
 
 ## Query 17: Learning Effectiveness by Device Type
@@ -234,37 +228,22 @@
 
 ---
 
-## Query 18: Executive Dashboard Summary
-**Query:** Comprehensive platform performance overview
-
-![Query 18 Code](https://github.com/user-attachments/assets/372ec545-ea2c-466e-a2fd-2b0ac75640a8)
-
-![Query 18 Results](https://github.com/user-attachments/assets/7b5cda86-41da-4f06-b44c-d9741e9fb15f)
-
-**Key Insights:**
-- Platform maintains 85.71% completion rate across all courses
-- Average student score of 87.31 demonstrates quality instruction
-- Revenue of $11,199.76 represents strong financial performance
-- Instructor-to-student ratio of 1:3.6 enables personalized attention
-
----
-
 ## Strategic Business Recommendations
 
 ### Immediate Actions
-1. **Expand Machine Learning offerings** - highest revenue per course ($4,199.94)
-2. **Develop corporate training packages** - 72% of students from business market
-3. **Optimize Tuesday-Wednesday capacity** - peak learning days (11 sessions each)
-4. **Improve mobile learning experience** - 27% of sessions on mobile devices
+1. **Expand Ethical Hacking offerings** - highest revenue generator at $2,399.97
+2. **Develop corporate training packages** - 44% of students from Corporate tier
+3. **Optimize Wednesday capacity** - peak learning day with 12 sessions
+4. **Improve tablet learning experience** - lowest completion rate at 66.67%
 
 ### Growth Opportunities
-1. **Premium course development** - advanced courses justify higher pricing ($549.99 avg)
-2. **Enterprise sales program** - multiple companies already engaged
-3. **Instructor recruitment** in high-demand specializations (ML, Data Science)
+1. **Premium course development** - Advanced courses average $666.65 vs Beginner at $337.49
+2. **Enterprise sales program** - 7 Enterprise students represent untapped potential
+3. **February marketing push** - historically strongest month ($4,249.91 revenue)
 4. **Student satisfaction improvement** - target 4.5+ average ratings from current 3.8
 
 ### Key Success Metrics
-- **85.7% completion rate** demonstrates quality instruction
-- **$11,199.76 revenue** with consistent growth trajectory
+- **85.71% completion rate** demonstrates quality instruction
+- **$11,199.76 actual revenue** with 79.7% payment conversion
 - **Platform engagement** across all device types and subscription tiers
 - **Corporate market penetration** validated with 18/25 business users
