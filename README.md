@@ -65,10 +65,9 @@ tech-training-analytics/
 │   ├── 03_data_cleaning_procedures.sql   # Systematic cleaning
 │   └── erd_diagram.png                   # Visual database schema
 ├── analytics/
-│   ├── 04_business_analytics.sql         # Strategic insights queries
-│   └── business_insights_summary.md      # Key analytical findings
-└── documentation/
-    └── complete_project_documentation.md # Detailed methodology
+    ├── 04_business_analytics.sql         # Strategic insights queries
+    └── business_insights_summary.md      # Key analytical findings
+
 ```
 
 ## 🚀 Quick Start
